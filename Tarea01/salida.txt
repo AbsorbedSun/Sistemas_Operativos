@@ -1,0 +1,1604 @@
+# Nota: dado que el programa utiliza ciclos while, cambié deliberadamente el límite
+# a 800 para poder completar la ejecución de forma satisfactoria, debido a los
+# bajos recursos del equipo donde lo ejecuté.
+		
+		Soy el proceso hijo: 0
+		Soy el proceso hijo: 1
+		Soy el proceso hijo: 2
+		Soy el proceso hijo: 3
+		Soy el proceso hijo: 4
+		Soy el proceso hijo: 5
+		Soy el proceso hijo: 6
+		Soy el proceso hijo: 7
+		Soy el proceso hijo: 8
+		Soy el proceso hijo: 9
+		Soy el proceso hijo: 10
+		Soy el proceso hijo: 11
+		Soy el proceso hijo: 12
+		Soy el proceso hijo: 13
+		Soy el proceso hijo: 14
+		Soy el proceso hijo: 15
+		Soy el proceso hijo: 16
+		Soy el proceso hijo: 17
+		Soy el proceso hijo: 18
+		Soy el proceso hijo: 19
+		Soy el proceso hijo: 20
+		Soy el proceso hijo: 21
+		Soy el proceso hijo: 22
+		Soy el proceso hijo: 23
+		Soy el proceso hijo: 24
+		Soy el proceso hijo: 25
+		Soy el proceso hijo: 26
+		Soy el proceso hijo: 27
+		Soy el proceso hijo: 28
+		Soy el proceso hijo: 29
+		Soy el proceso hijo: 30
+		Soy el proceso hijo: 31
+		Soy el proceso hijo: 32
+		Soy el proceso hijo: 33
+		Soy el proceso hijo: 34
+		Soy el proceso hijo: 35
+		Soy el proceso hijo: 36
+		Soy el proceso hijo: 37
+		Soy el proceso hijo: 38
+		Soy el proceso hijo: 39
+		Soy el proceso hijo: 40
+		Soy el proceso hijo: 41
+		Soy el proceso hijo: 42
+		Soy el proceso hijo: 43
+		Soy el proceso hijo: 44
+		Soy el proceso hijo: 45
+		Soy el proceso hijo: 46
+		Soy el proceso hijo: 47
+		Soy el proceso hijo: 48
+		Soy el proceso hijo: 49
+		Soy el proceso hijo: 50
+		Soy el proceso hijo: 51
+		Soy el proceso hijo: 52
+		Soy el proceso hijo: 53
+		Soy el proceso hijo: 54
+		Soy el proceso hijo: 55
+		Soy el proceso hijo: 56
+		Soy el proceso hijo: 57
+		Soy el proceso hijo: 58
+		Soy el proceso hijo: 59
+		Soy el proceso hijo: 60
+		Soy el proceso hijo: 61
+		Soy el proceso hijo: 62
+		Soy el proceso hijo: 63
+		Soy el proceso hijo: 64
+		Soy el proceso hijo: 65
+		Soy el proceso hijo: 66
+		Soy el proceso hijo: 67
+		Soy el proceso hijo: 68
+		Soy el proceso hijo: 69
+		Soy el proceso hijo: 70
+		Soy el proceso hijo: 71
+		Soy el proceso hijo: 72
+		Soy el proceso hijo: 73
+		Soy el proceso hijo: 74
+		Soy el proceso hijo: 75
+		Soy el proceso hijo: 76
+		Soy el proceso hijo: 77
+		Soy el proceso hijo: 78
+		Soy el proceso hijo: 79
+		Soy el proceso hijo: 80
+		Soy el proceso hijo: 81
+		Soy el proceso hijo: 82
+		Soy el proceso hijo: 83
+		Soy el proceso hijo: 84
+		Soy el proceso hijo: 85
+		Soy el proceso hijo: 86
+		Soy el proceso hijo: 87
+		Soy el proceso hijo: 88
+		Soy el proceso hijo: 89
+		Soy el proceso hijo: 90
+		Soy el proceso hijo: 91
+		Soy el proceso hijo: 92
+		Soy el proceso hijo: 93
+		Soy el proceso hijo: 94
+		Soy el proceso hijo: 95
+		Soy el proceso hijo: 96
+		Soy el proceso hijo: 97
+		Soy el proceso hijo: 98
+		Soy el proceso hijo: 99
+		Soy el proceso hijo: 100
+		Soy el proceso hijo: 101
+		Soy el proceso hijo: 102
+		Soy el proceso hijo: 103
+		Soy el proceso hijo: 104
+		Soy el proceso hijo: 105
+		Soy el proceso hijo: 106
+		Soy el proceso hijo: 107
+		Soy el proceso hijo: 108
+		Soy el proceso hijo: 109
+		Soy el proceso hijo: 110
+		Soy el proceso hijo: 111
+		Soy el proceso hijo: 112
+		Soy el proceso hijo: 113
+		Soy el proceso hijo: 114
+		Soy el proceso hijo: 115
+		Soy el proceso hijo: 116
+		Soy el proceso hijo: 117
+		Soy el proceso hijo: 118
+		Soy el proceso hijo: 119
+		Soy el proceso hijo: 120
+		Soy el proceso hijo: 121
+		Soy el proceso hijo: 122
+		Soy el proceso hijo: 123
+		Soy el proceso hijo: 124
+		Soy el proceso hijo: 125
+		Soy el proceso hijo: 126
+		Soy el proceso hijo: 127
+		Soy el proceso hijo: 128
+		Soy el proceso hijo: 129
+		Soy el proceso hijo: 130
+		Soy el proceso hijo: 131
+		Soy el proceso hijo: 132
+		Soy el proceso hijo: 133
+		Soy el proceso hijo: 134
+		Soy el proceso hijo: 135
+		Soy el proceso hijo: 136
+		Soy el proceso hijo: 137
+		Soy el proceso hijo: 138
+		Soy el proceso hijo: 139
+		Soy el proceso hijo: 140
+		Soy el proceso hijo: 141
+		Soy el proceso hijo: 142
+		Soy el proceso hijo: 143
+		Soy el proceso hijo: 144
+		Soy el proceso hijo: 145
+		Soy el proceso hijo: 146
+		Soy el proceso hijo: 147
+		Soy el proceso hijo: 148
+		Soy el proceso hijo: 149
+		Soy el proceso hijo: 150
+		Soy el proceso hijo: 151
+		Soy el proceso hijo: 152
+		Soy el proceso hijo: 153
+		Soy el proceso hijo: 154
+		Soy el proceso hijo: 155
+		Soy el proceso hijo: 156
+		Soy el proceso hijo: 157
+		Soy el proceso hijo: 158
+		Soy el proceso hijo: 159
+		Soy el proceso hijo: 160
+		Soy el proceso hijo: 161
+		Soy el proceso hijo: 162
+		Soy el proceso hijo: 163
+		Soy el proceso hijo: 164
+		Soy el proceso hijo: 165
+		Soy el proceso hijo: 166
+		Soy el proceso hijo: 167
+		Soy el proceso hijo: 168
+		Soy el proceso hijo: 169
+		Soy el proceso hijo: 170
+		Soy el proceso hijo: 171
+		Soy el proceso hijo: 172
+		Soy el proceso hijo: 173
+		Soy el proceso hijo: 174
+		Soy el proceso hijo: 175
+		Soy el proceso hijo: 176
+		Soy el proceso hijo: 177
+		Soy el proceso hijo: 178
+		Soy el proceso hijo: 179
+		Soy el proceso hijo: 180
+		Soy el proceso hijo: 181
+		Soy el proceso hijo: 182
+		Soy el proceso hijo: 183
+		Soy el proceso hijo: 184
+		Soy el proceso hijo: 185
+		Soy el proceso hijo: 186
+		Soy el proceso hijo: 187
+		Soy el proceso hijo: 188
+		Soy el proceso hijo: 189
+		Soy el proceso hijo: 190
+		Soy el proceso hijo: 191
+		Soy el proceso hijo: 192
+		Soy el proceso hijo: 193
+		Soy el proceso hijo: 194
+		Soy el proceso hijo: 195
+		Soy el proceso hijo: 196
+		Soy el proceso hijo: 197
+		Soy el proceso hijo: 198
+		Soy el proceso hijo: 199
+		Soy el proceso hijo: 200
+		Soy el proceso hijo: 201
+		Soy el proceso hijo: 202
+		Soy el proceso hijo: 203
+		Soy el proceso hijo: 204
+		Soy el proceso hijo: 205
+		Soy el proceso hijo: 206
+		Soy el proceso hijo: 207
+		Soy el proceso hijo: 208
+		Soy el proceso hijo: 209
+		Soy el proceso hijo: 210
+		Soy el proceso hijo: 211
+		Soy el proceso hijo: 212
+		Soy el proceso hijo: 213
+		Soy el proceso hijo: 214
+		Soy el proceso hijo: 215
+		Soy el proceso hijo: 216
+		Soy el proceso hijo: 217
+		Soy el proceso hijo: 218
+		Soy el proceso hijo: 219
+		Soy el proceso hijo: 220
+		Soy el proceso hijo: 221
+		Soy el proceso hijo: 222
+		Soy el proceso hijo: 223
+		Soy el proceso hijo: 224
+		Soy el proceso hijo: 225
+		Soy el proceso hijo: 226
+		Soy el proceso hijo: 227
+		Soy el proceso hijo: 228
+		Soy el proceso hijo: 229
+		Soy el proceso hijo: 230
+		Soy el proceso hijo: 231
+		Soy el proceso hijo: 232
+		Soy el proceso hijo: 233
+		Soy el proceso hijo: 234
+		Soy el proceso hijo: 235
+		Soy el proceso hijo: 236
+		Soy el proceso hijo: 237
+		Soy el proceso hijo: 238
+		Soy el proceso hijo: 239
+		Soy el proceso hijo: 240
+		Soy el proceso hijo: 241
+		Soy el proceso hijo: 242
+		Soy el proceso hijo: 243
+		Soy el proceso hijo: 244
+		Soy el proceso hijo: 245
+		Soy el proceso hijo: 246
+		Soy el proceso hijo: 247
+		Soy el proceso hijo: 248
+		Soy el proceso hijo: 249
+		Soy el proceso hijo: 250
+		Soy el proceso hijo: 251
+		Soy el proceso hijo: 252
+		Soy el proceso hijo: 253
+		Soy el proceso hijo: 254
+		Soy el proceso hijo: 255
+		Soy el proceso hijo: 256
+		Soy el proceso hijo: 257
+		Soy el proceso hijo: 258
+		Soy el proceso hijo: 259
+		Soy el proceso hijo: 260
+		Soy el proceso hijo: 261
+		Soy el proceso hijo: 262
+		Soy el proceso hijo: 263
+		Soy el proceso hijo: 264
+		Soy el proceso hijo: 265
+		Soy el proceso hijo: 266
+		Soy el proceso hijo: 267
+		Soy el proceso hijo: 268
+		Soy el proceso hijo: 269
+		Soy el proceso hijo: 270
+		Soy el proceso hijo: 271
+		Soy el proceso hijo: 272
+		Soy el proceso hijo: 273
+		Soy el proceso hijo: 274
+		Soy el proceso hijo: 275
+		Soy el proceso hijo: 276
+		Soy el proceso hijo: 277
+		Soy el proceso hijo: 278
+		Soy el proceso hijo: 279
+		Soy el proceso hijo: 280
+		Soy el proceso hijo: 281
+		Soy el proceso hijo: 282
+		Soy el proceso hijo: 283
+		Soy el proceso hijo: 284
+		Soy el proceso hijo: 285
+		Soy el proceso hijo: 286
+		Soy el proceso hijo: 287
+		Soy el proceso hijo: 288
+		Soy el proceso hijo: 289
+		Soy el proceso hijo: 290
+		Soy el proceso hijo: 291
+		Soy el proceso hijo: 292
+		Soy el proceso hijo: 293
+		Soy el proceso hijo: 294
+		Soy el proceso hijo: 295
+		Soy el proceso hijo: 296
+		Soy el proceso hijo: 297
+		Soy el proceso hijo: 298
+		Soy el proceso hijo: 299
+		Soy el proceso hijo: 300
+		Soy el proceso hijo: 301
+		Soy el proceso hijo: 302
+		Soy el proceso hijo: 303
+		Soy el proceso hijo: 304
+		Soy el proceso hijo: 305
+		Soy el proceso hijo: 306
+		Soy el procSoy el proceso padre: 0
+Soy el proceso padre: 1
+Soy el proceso padre: 2
+Soy el proceso padre: 3
+Soy el proceso padre: 4
+Soy el proceso padre: 5
+Soy el proceso padre: 6
+Soy el proceso padre: 7
+Soy el proceso padre: 8
+Soy el proceso padre: 9
+Soy el proceso padre: 10
+Soy el proceso padre: 11
+Soy el proceso padre: 12
+Soy el proceso padre: 13
+Soy el proceso padre: 14
+Soy el proceso padre: 15
+Soy el proceso padre: 16
+Soy el proceso padre: 17
+Soy el proceso padre: 18
+Soy el proceso padre: 19
+Soy el proceso padre: 20
+Soy el proceso padre: 21
+Soy el proceso padre: 22
+Soy el proceso padre: 23
+Soy el proceso padre: 24
+Soy el proceso padre: 25
+Soy el proceso padre: 26
+Soy el proceso padre: 27
+Soy el proceso padre: 28
+Soy el proceso padre: 29
+Soy el proceso padre: 30
+Soy el proceso padre: 31
+Soy el proceso padre: 32
+Soy el proceso padre: 33
+Soy el proceso padre: 34
+Soy el proceso padre: 35
+Soy el proceso padre: 36
+Soy el proceso padre: 37
+Soy el proceso padre: 38
+Soy el proceso padre: 39
+Soy el proceso padre: 40
+Soy el proceso padre: 41
+Soy el proceso padre: 42
+Soy el proceso padre: 43
+Soy el proceso padre: 44
+Soy el proceso padre: 45
+Soy el proceso padre: 46
+Soy el proceso padre: 47
+Soy el proceso padre: 48
+Soy el proceso padre: 49
+Soy el proceso padre: 50
+Soy el proceso padre: 51
+Soy el proceso padre: 52
+Soy el proceso padre: 53
+Soy el proceso padre: 54
+Soy el proceso padre: 55
+Soy el proceso padre: 56
+Soy el proceso padre: 57
+Soy el proceso padre: 58
+Soy el proceso padre: 59
+Soy el proceso padre: 60
+Soy el proceso padre: 61
+Soy el proceso padre: 62
+Soy el proceso padre: 63
+Soy el proceso padre: 64
+Soy el proceso padre: 65
+Soy el proceso padre: 66
+Soy el proceso padre: 67
+Soy el proceso padre: 68
+Soy el proceso padre: 69
+Soy el proceso padre: 70
+Soy el proceso padre: 71
+Soy el proceso padre: 72
+Soy el proceso padre: 73
+Soy el proceso padre: 74
+Soy el proceso padre: 75
+Soy el proceso padre: 76
+Soy el proceso padre: 77
+Soy el proceso padre: 78
+Soy el proceso padre: 79
+Soy el proceso padre: 80
+Soy el proceso padre: 81
+Soy el proceso padre: 82
+Soy el proceso padre: 83
+Soy el proceso padre: 84
+Soy el proceso padre: 85
+Soy el proceso padre: 86
+Soy el proceso padre: 87
+Soy el proceso padre: 88
+Soy el proceso padre: 89
+Soy el proceso padre: 90
+Soy el proceso padre: 91
+Soy el proceso padre: 92
+Soy el proceso padre: 93
+Soy el proceso padre: 94
+Soy el proceso padre: 95
+Soy el proceso padre: 96
+Soy el proceso padre: 97
+Soy el proceso padre: 98
+Soy el proceso padre: 99
+Soy el proceso padre: 100
+Soy el proceso padre: 101
+Soy el proceso padre: 102
+Soy el proceso padre: 103
+Soy el proceso padre: 104
+Soy el proceso padre: 105
+Soy el proceso padre: 106
+Soy el proceso padre: 107
+Soy el proceso padre: 108
+Soy el proceso padre: 109
+Soy el proceso padre: 110
+Soy el proceso padre: 111
+Soy el proceso padre: 112
+Soy el proceso padre: 113
+Soy el proceso padre: 114
+Soy el proceso padre: 115
+Soy el proceso padre: 116
+Soy el proceso padre: 117
+Soy el proceso padre: 118
+Soy el proceso padre: 119
+Soy el proceso padre: 120
+Soy el proceso padre: 121
+Soy el proceso padre: 122
+Soy el proceso padre: 123
+Soy el proceso padre: 124
+Soy el proceso padre: 125
+Soy el proceso padre: 126
+Soy el proceso padre: 127
+Soy el proceso padre: 128
+Soy el proceso padre: 129
+Soy el proceso padre: 130
+Soy el proceso padre: 131
+Soy el proceso padre: 132
+Soy el proceso padre: 133
+Soy el proceso padre: 134
+Soy el proceso padre: 135
+Soy el proceso padre: 136
+Soy el proceso padre: 137
+Soy el proceso padre: 138
+Soy el proceso padre: 139
+Soy el proceso padre: 140
+Soy el proceso padre: 141
+Soy el proceso padre: 142
+Soy el proceso padre: 143
+Soy el proceso padre: 144
+Soy el proceso padre: 145
+Soy el proceso padre: 146
+Soy el proceso padre: 147
+Soy el proceso padre: 148
+Soy el proceso padre: 149
+Soy el proceso padre: 150
+Soy el proceso padre: 151
+Soy el proceso padre: 152
+Soy el proceso padre: 153
+Soy el proceso padre: 154
+Soy el proceso padre: 155
+Soy el proceso padre: 156
+Soy el proceso padre: 157
+Soy el proceso padre: 158
+Soy el proceso padre: 159
+Soy el proceso padre: 160
+Soy el proceso padreeso hijo: 307
+		Soy el proceso hijo: 308
+		Soy el proceso hijo: 309
+		Soy el proceso hijo: 310
+		Soy el proceso hijo: 311
+		Soy el proceso hijo: 312
+		Soy el proceso hijo: 313
+		Soy el proceso hijo: 314
+		Soy el proceso hijo: 315
+		Soy el proceso hijo: 316
+		Soy el proceso hijo: 317
+		Soy el proceso hijo: 318
+		Soy el proceso hijo: 319
+		Soy el proceso hijo: 320
+		Soy el proceso hijo: 321
+		Soy el proceso hijo: 322
+		Soy el proceso hijo: 323
+		Soy el proceso hijo: 324
+		Soy el proceso hijo: 325
+		Soy el proceso hijo: 326
+		Soy el proceso hijo: 327
+		Soy el proceso hijo: 328
+		Soy el proceso hijo: 329
+		Soy el proceso hijo: 330
+		Soy el proceso hijo: 331
+		Soy el proceso hijo: 332
+		Soy el proceso hijo: 333
+		Soy el proceso hijo: 334
+		Soy el proceso hijo: 335
+		Soy el proceso hijo: 336
+		Soy el proceso hijo: 337
+		Soy el proceso hijo: 338
+		Soy el proceso hijo: 339
+		Soy el proceso hijo: 340
+		Soy el proceso hijo: 341
+		Soy el proceso hijo: 342
+		Soy el proceso hijo: 343
+		Soy el proceso hijo: 344
+		Soy el proceso hijo: 345
+		Soy el proceso hijo: 346
+		Soy el proceso hijo: 347
+		Soy el proceso hijo: 348
+		Soy el proceso hijo: 349
+		Soy el proceso hijo: 350
+		Soy el proceso hijo: 351
+		Soy el proceso hijo: 352
+		Soy el proceso hijo: 353
+		Soy el proceso hijo: 354
+		Soy el proceso hijo: 355
+		Soy el proceso hijo: 356
+		Soy el proceso hijo: 357
+		Soy el proceso hijo: 358
+		Soy el proceso hijo: 359
+		Soy el proceso hijo: 360
+		Soy el proceso hijo: 361
+		Soy el proceso hijo: 362
+		Soy el proceso hijo: 363
+		Soy el proceso hijo: 364
+		Soy el proceso hijo: 365
+		Soy el proceso hijo: 366
+		Soy el proceso hijo: 367
+		Soy el proceso hijo: 368
+		Soy el proceso hijo: 369
+		Soy el proceso hijo: 370
+		Soy el proceso hijo: 371
+		Soy el proceso hijo: 372
+		Soy el proceso hijo: 373
+		Soy el proceso hijo: 374
+		Soy el proceso hijo: 375
+		Soy el proceso hijo: 376
+		Soy el proceso hijo: 377
+		Soy el proceso hijo: 378
+		Soy el proceso hijo: 379
+		Soy el proceso hijo: 380
+		Soy el proceso hijo: 381
+		Soy el proceso hijo: 382
+		Soy el proceso hijo: 383
+		Soy el proceso hijo: 384
+		Soy el proceso hijo: 385
+		Soy el proceso hijo: 386
+		Soy el proceso hijo: 387
+		Soy el proceso hijo: 388
+		Soy el proceso hijo: 389
+		Soy el proceso hijo: 390
+		Soy el proceso hijo: 391
+		Soy el proceso hijo: 392
+		Soy el proceso hijo: 393
+		Soy el proceso hijo: 394
+		Soy el proceso hijo: 395
+		Soy el proceso hijo: 396
+		Soy el proceso hijo: 397
+		Soy el proceso hijo: 398
+		Soy el proceso hijo: 399
+		Soy el proceso hijo: 400
+		Soy el proceso hijo: 401
+		Soy el proceso hijo: 402
+		Soy el proceso hijo: 403
+		Soy el proceso hijo: 404
+		Soy el proceso hijo: 405
+		Soy el proceso hijo: 406
+		Soy el proceso hijo: 407
+		Soy el proceso hijo: 408
+		Soy el proceso hijo: 409
+		Soy el proceso hijo: 410
+		Soy el proceso hijo: 411
+		Soy el proceso hijo: 412
+		Soy el proceso hijo: 413
+		Soy el proceso hijo: 414
+		Soy el proceso hijo: 415
+		Soy el proceso hijo: 416
+		Soy el proceso hijo: 417
+		Soy el proceso hijo: 418
+		Soy el proceso hijo: 419
+		Soy el proceso hijo: 420
+		Soy el proceso hijo: 421
+		Soy el proceso hijo: 422
+		Soy el proceso hijo: 423
+		Soy el proceso hijo: 424
+		Soy el proceso hijo: 425
+		Soy el proceso hijo: 426
+		Soy el proceso hijo: 427
+		Soy el proceso hijo: 428
+		Soy el proceso hijo: 429
+		Soy el proceso hijo: 430
+		Soy el proceso hijo: 431
+		Soy el proceso hijo: 432
+		Soy el proceso hijo: 433
+		Soy el proceso hijo: 434
+		Soy el proceso hijo: 435
+		Soy el proceso hijo: 436
+		Soy el proceso hijo: 437
+		Soy el proceso hijo: 438
+		Soy el proceso hijo: 439
+		Soy el proceso hijo: 440
+		Soy el proceso hijo: 441
+		Soy el proceso hijo: 442
+		Soy el proceso hijo: 443
+		Soy el proceso hijo: 444
+		Soy el proceso hijo: 445
+		Soy el proceso hijo: 446
+		Soy el proceso hijo: 447
+		Soy el proceso hijo: 448
+		Soy el proceso hijo: 449
+		Soy el proceso hijo: 450
+		Soy el proceso hijo: 451
+		Soy el proceso hijo: 452
+		Soy el proceso hijo: 453
+		Soy el proceso hijo: 454
+		Soy el proceso hijo: 455
+		Soy el proceso hijo: 456
+		Soy el proceso hijo: 457
+		Soy el proceso hijo: 458
+		Soy el proceso hijo: 459
+		Soy el proceso hijo: 460
+		Soy el proceso hijo: 461
+		Soy el proceso hijo: 462
+		Soy el proceso hijo: 463
+		Soy el proceso hijo: 464
+		Soy el proceso hijo: 465
+		Soy el proceso hijo: 466
+		Soy el proceso hijo: 467
+		Soy el proceso hijo: 468
+		Soy el proceso hijo: 469
+		Soy el proceso hijo: 470
+		Soy el proceso hijo: 471
+		Soy el proceso hijo: 472
+		Soy el proceso hijo: 473
+		Soy el proceso hijo: 474
+		Soy el proceso hijo: 475
+		Soy el proceso hijo: 476
+		Soy el proceso hijo: 477
+		Soy el proceso hijo: 478
+		Soy el proceso hijo: 479
+		Soy el proceso hijo: 480
+		Soy el proceso hijo: 481
+		Soy el proceso hijo: 482
+		Soy el proceso hijo: 483
+		Soy el proceso hijo: 484
+		Soy el proceso hijo: 485
+		Soy el proceso hijo: 486
+		Soy el proceso hijo: 487
+		Soy el proceso hijo: 488
+		Soy el proceso hijo: 489
+		Soy el proceso hijo: 490
+		Soy el proceso hijo: 491
+		Soy el proceso hijo: 492
+		Soy el proceso hijo: 493
+		Soy el proceso hijo: 494
+		Soy el proceso hijo: 495
+		Soy el proceso hijo: 496
+		Soy el proceso hijo: 497
+		Soy el proceso hijo: 498
+		Soy el proceso hijo: 499
+		Soy el proceso hijo: 500
+		Soy el proceso hijo: 501
+		Soy el proceso hijo: 502
+		Soy el proceso hijo: 503
+		Soy el proceso hijo: 504
+		Soy el proceso hijo: 505
+		Soy el proceso hijo: 506
+		Soy el proceso hijo: 507
+		Soy el proceso hijo: 508
+		Soy el proceso hijo: 509
+		Soy el proceso hijo: 510
+		Soy el proceso hijo: 511
+		Soy el proceso hijo: 512
+		Soy el proceso hijo: 513
+		Soy el proceso hijo: 514
+		Soy el proceso hijo: 515
+		Soy el proceso hijo: 516
+		Soy el proceso hijo: 517
+		Soy el proceso hijo: 518
+		Soy el proceso hijo: 519
+		Soy el proceso hijo: 520
+		Soy el proceso hijo: 521
+		Soy el proceso hijo: 522
+		Soy el proceso hijo: 523
+		Soy el proceso hijo: 524
+		Soy el proceso hijo: 525
+		Soy el proceso hijo: 526
+		Soy el proceso hijo: 527
+		Soy el proceso hijo: 528
+		Soy el proceso hijo: 529
+		Soy el proceso hijo: 530
+		Soy el proceso hijo: 531
+		Soy el proceso hijo: 532
+		Soy el proceso hijo: 533
+		Soy el proceso hijo: 534
+		Soy el proceso hijo: 535
+		Soy el proceso hijo: 536
+		Soy el proceso hijo: 537
+		Soy el proceso hijo: 538
+		Soy el proceso hijo: 539
+		Soy el proceso hijo: 540
+		Soy el proceso hijo: 541
+		Soy el proceso hijo: 542
+		Soy el proceso hijo: 543
+		Soy el proceso hijo: 544
+		Soy el proceso hijo: 545
+		Soy el proceso hijo: 546
+		Soy el proceso hijo: 547
+		Soy el proceso hijo: 548
+		Soy el proceso hijo: 549
+		Soy el proceso hijo: 550
+		Soy el proceso hijo: 551
+		Soy el proceso hijo: 552
+		Soy el proceso hijo: 553
+		Soy el proceso hijo: 554
+		Soy el proceso hijo: 555
+		Soy el proceso hijo: 556
+		Soy el proceso hijo: 557
+		Soy el proceso hijo: 558
+		Soy el proceso hijo: 559
+		Soy el proceso hijo: 560
+		Soy el proceso hijo: 561
+		Soy el proceso hijo: 562
+		Soy el proceso hijo: 563
+		Soy el proceso hijo: 564
+		Soy el proceso hijo: 565
+		Soy el proceso hijo: 566
+		Soy el proceso hijo: 567
+		Soy el proceso hijo: 568
+		Soy el proceso hijo: 569
+		Soy el proceso hijo: 570
+		Soy el proceso hijo: 571
+		Soy el proceso hijo: 572
+		Soy el proceso hijo: 573
+		Soy el proceso hijo: 574
+		Soy el proceso hijo: 575
+		Soy el proceso hijo: 576
+		Soy el proceso hijo: 577
+		Soy el proceso hijo: 578
+		Soy el proceso hijo: 579
+		Soy el proceso hijo: 580
+		Soy el proceso hijo: 581
+		Soy el proceso hijo: 582
+		Soy el proceso hijo: 583
+		Soy el proceso hijo: 584
+		Soy el proceso hijo: 585
+		Soy el proceso hijo: 586
+		Soy el proceso hijo: 587
+		Soy el proceso hijo: 588
+		Soy el proceso hijo: 589
+		Soy el proceso hijo: 590
+		Soy el proceso hijo: 591
+		Soy el proceso hijo: 592
+		Soy el proceso hijo: 593
+		Soy el proceso hijo: 594
+		Soy el proceso hijo: 595
+		Soy el proceso hijo: 596
+		Soy el proceso hijo: 597
+		Soy el proceso hijo: 598
+		Soy el proceso hijo: 599
+		Soy el proceso hijo: 600
+		Soy el proceso hijo: 601
+		Soy el proceso hijo: 602
+		Soy el proceso hijo: 603
+		Soy el proceso hijo: 604
+		Soy el proceso hijo: 605
+		Soy el proceso hijo: 606
+		Soy el proceso hijo: 607
+		Soy el proceso hijo: 608
+		Soy el proceso hijo: 609
+		Soy el proceso hijo: 6: 161
+Soy el proceso padre: 162
+Soy el proceso padre: 163
+Soy el proceso padre: 164
+Soy el proceso padre: 165
+Soy el proceso padre: 166
+Soy el proceso padre: 167
+Soy el proceso padre: 168
+Soy el proceso padre: 169
+Soy el proceso padre: 170
+Soy el proceso padre: 171
+Soy el proceso padre: 172
+Soy el proceso padre: 173
+Soy el proceso padre: 174
+Soy el proceso padre: 175
+Soy el proceso padre: 176
+Soy el proceso padre: 177
+Soy el proceso padre: 178
+Soy el proceso padre: 179
+Soy el proceso padre: 180
+Soy el proceso padre: 181
+Soy el proceso padre: 182
+Soy el proceso padre: 183
+Soy el proceso padre: 184
+Soy el proceso padre: 185
+Soy el proceso padre: 186
+Soy el proceso padre: 187
+Soy el proceso padre: 188
+Soy el proceso padre: 189
+Soy el proceso padre: 190
+Soy el proceso padre: 191
+Soy el proceso padre: 192
+Soy el proceso padre: 193
+Soy el proceso padre: 194
+Soy el proceso padre: 195
+Soy el proceso padre: 196
+Soy el proceso padre: 197
+Soy el proceso padre: 198
+Soy el proceso padre: 199
+Soy el proceso padre: 200
+Soy el proceso padre: 201
+Soy el proceso padre: 202
+Soy el proceso padre: 203
+Soy el proceso padre: 204
+Soy el proceso padre: 205
+Soy el proceso padre: 206
+Soy el proceso padre: 207
+Soy el proceso padre: 208
+Soy el proceso padre: 209
+Soy el proceso padre: 210
+Soy el proceso padre: 211
+Soy el proceso padre: 212
+Soy el proceso padre: 213
+Soy el proceso padre: 214
+Soy el proceso padre: 215
+Soy el proceso padre: 216
+Soy el proceso padre: 217
+Soy el proceso padre: 218
+Soy el proceso padre: 219
+Soy el proceso padre: 220
+Soy el proceso padre: 221
+Soy el proceso padre: 222
+Soy el proceso padre: 223
+Soy el proceso padre: 224
+Soy el proceso padre: 225
+Soy el proceso padre: 226
+Soy el proceso padre: 227
+Soy el proceso padre: 228
+Soy el proceso padre: 229
+Soy el proceso padre: 230
+Soy el proceso padre: 231
+Soy el proceso padre: 232
+Soy el proceso padre: 233
+Soy el proceso padre: 234
+Soy el proceso padre: 235
+Soy el proceso padre: 236
+Soy el proceso padre: 237
+Soy el proceso padre: 238
+Soy el proceso padre: 239
+Soy el proceso padre: 240
+Soy el proceso padre: 241
+Soy el proceso padre: 242
+Soy el proceso padre: 243
+Soy el proceso padre: 244
+Soy el proceso padre: 245
+Soy el proceso padre: 246
+Soy el proceso padre: 247
+Soy el proceso padre: 248
+Soy el proceso padre: 249
+Soy el proceso padre: 250
+Soy el proceso padre: 251
+Soy el proceso padre: 252
+Soy el proceso padre: 253
+Soy el proceso padre: 254
+Soy el proceso padre: 255
+Soy el proceso padre: 256
+Soy el proceso padre: 257
+Soy el proceso padre: 258
+Soy el proceso padre: 259
+Soy el proceso padre: 260
+Soy el proceso padre: 261
+Soy el proceso padre: 262
+Soy el proceso padre: 263
+Soy el proceso padre: 264
+Soy el proceso padre: 265
+Soy el proceso padre: 266
+Soy el proceso padre: 267
+Soy el proceso padre: 268
+Soy el proceso padre: 269
+Soy el proceso padre: 270
+Soy el proceso padre: 271
+Soy el proceso padre: 272
+Soy el proceso padre: 273
+Soy el proceso padre: 274
+Soy el proceso padre: 275
+Soy el proceso padre: 276
+Soy el proceso padre: 277
+Soy el proceso padre: 278
+Soy el proceso padre: 279
+Soy el proceso padre: 280
+Soy el proceso padre: 281
+Soy el proceso padre: 282
+Soy el proceso padre: 283
+Soy el proceso padre: 284
+Soy el proceso padre: 285
+Soy el proceso padre: 286
+Soy el proceso padre: 287
+Soy el proceso padre: 288
+Soy el proceso padre: 289
+Soy el proceso padre: 290
+Soy el proceso padre: 291
+Soy el proceso padre: 292
+Soy el proceso padre: 293
+Soy el proceso padre: 294
+Soy el proceso padre: 295
+Soy el proceso padre: 296
+Soy el proceso padre: 297
+Soy el proceso padre: 298
+Soy el proceso padre: 299
+Soy el proceso padre: 300
+Soy el proceso padre: 301
+Soy el proceso padre: 302
+Soy el proceso padre: 303
+Soy el proceso padre: 304
+Soy el proceso padre: 305
+Soy el proceso padre: 306
+Soy el proceso padre: 307
+Soy el proceso padre: 308
+Soy el proceso padre: 309
+Soy el proceso padre: 310
+Soy el proceso padre: 311
+Soy el proceso padre: 312
+Soy el proceso padre: 313
+Soy el proceso padre: 314
+Soy el proceso padre: 315
+Soy el proceso padre: 316
+Soy el proceso padre: 317
+Soy el proceso padre: 318
+Soy el p10
+		Soy el proceso hijo: 611
+		Soy el proceso hijo: 612
+		Soy el proceso hijo: 613
+		Soy el proceso hijo: 614
+		Soy el proceso hijo: 615
+		Soy el proceso hijo: 616
+		Soy el proceso hijo: 617
+		Soy el proceso hijo: 618
+		Soy el proceso hijo: 619
+		Soy el proceso hijo: 620
+		Soy el proceso hijo: 621
+		Soy el proceso hijo: 622
+		Soy el proceso hijo: 623
+		Soy el proceso hijo: 624
+		Soy el proceso hijo: 625
+		Soy el proceso hijo: 626
+		Soy el proceso hijo: 627
+		Soy el proceso hijo: 628
+		Soy el proceso hijo: 629
+		Soy el proceso hijo: 630
+		Soy el proceso hijo: 631
+		Soy el proceso hijo: 632
+		Soy el proceso hijo: 633
+		Soy el proceso hijo: 634
+		Soy el proceso hijo: 635
+		Soy el proceso hijo: 636
+		Soy el proceso hijo: 637
+		Soy el proceso hijo: 638
+		Soy el proceso hijo: 639
+		Soy el proceso hijo: 640
+		Soy el proceso hijo: 641
+		Soy el proceso hijo: 642
+		Soy el proceso hijo: 643
+		Soy el proceso hijo: 644
+		Soy el proceso hijo: 645
+		Soy el proceso hijo: 646
+		Soy el proceso hijo: 647
+		Soy el proceso hijo: 648
+		Soy el proceso hijo: 649
+		Soy el proceso hijo: 650
+		Soy el proceso hijo: 651
+		Soy el proceso hijo: 652
+		Soy el proceso hijo: 653
+		Soy el proceso hijo: 654
+		Soy el proceso hijo: 655
+		Soy el proceso hijo: 656
+		Soy el proceso hijo: 657
+		Soy el proceso hijo: 658
+		Soy el proceso hijo: 659
+		Soy el proceso hijo: 660
+		Soy el proceso hijo: 661
+		Soy el proceso hijo: 662
+		Soy el proceso hijo: 663
+		Soy el proceso hijo: 664
+		Soy el proceso hijo: 665
+		Soy el proceso hijo: 666
+		Soy el proceso hijo: 667
+		Soy el proceso hijo: 668
+		Soy el proceso hijo: 669
+		Soy el proceso hijo: 670
+		Soy el proceso hijo: 671
+		Soy el proceso hijo: 672
+		Soy el proceso hijo: 673
+		Soy el proceso hijo: 674
+		Soy el proceso hijo: 675
+		Soy el proceso hijo: 676
+		Soy el proceso hijo: 677
+		Soy el proceso hijo: 678
+		Soy el proceso hijo: 679
+		Soy el proceso hijo: 680
+		Soy el proceso hijo: 681
+		Soy el proceso hijo: 682
+		Soy el proceso hijo: 683
+		Soy el proceso hijo: 684
+		Soy el proceso hijo: 685
+		Soy el proceso hijo: 686
+		Soy el proceso hijo: 687
+		Soy el proceso hijo: 688
+		Soy el proceso hijo: 689
+		Soy el proceso hijo: 690
+		Soy el proceso hijo: 691
+		Soy el proceso hijo: 692
+		Soy el proceso hijo: 693
+		Soy el proceso hijo: 694
+		Soy el proceso hijo: 695
+		Soy el proceso hijo: 696
+		Soy el proceso hijo: 697
+		Soy el proceso hijo: 698
+		Soy el proceso hijo: 699
+		Soy el proceso hijo: 700
+		Soy el proceso hijo: 701
+		Soy el proceso hijo: 702
+		Soy el proceso hijo: 703
+		Soy el proceso hijo: 704
+		Soy el proceso hijo: 705
+		Soy el proceso hijo: 706
+		Soy el proceso hijo: 707
+		Soy el proceso hijo: 708
+		Soy el proceso hijo: 709
+		Soy el proceso hijo: 710
+		Soy el proceso hijo: 711
+		Soy el proceso hijo: 712
+		Soy el proceso hijo: 713
+		Soy el proceso hijo: 714
+		Soy el proceso hijo: 715
+		Soy el proceso hijo: 716
+		Soy el proceso hijo: 717
+		Soy el proceso hijo: 718
+		Soy el proceso hijo: 719
+		Soy el proceso hijo: 720
+		Soy el proceso hijo: 721
+		Soy el proceso hijo: 722
+		Soy el proceso hijo: 723
+		Soy el proceso hijo: 724
+		Soy el proceso hijo: 725
+		Soy el proceso hijo: 726
+		Soy el proceso hijo: 727
+		Soy el proceso hijo: 728
+		Soy el proceso hijo: 729
+		Soy el proceso hijo: 730
+		Soy el proceso hijo: 731
+		Soy el proceso hijo: 732
+		Soy el proceso hijo: 733
+		Soy el proceso hijo: 734
+		Soy el proceso hijo: 735
+		Soy el proceso hijo: 736
+		Soy el proceso hijo: 737
+		Soy el proceso hijo: 738
+		Soy el proceso hijo: 739
+		Soy el proceso hijo: 740
+		Soy el proceso hijo: 741
+		Soy el proceso hijo: 742
+		Soy el proceso hijo: 743
+		Soy el proceso hijo: 744
+		Soy el proceso hijo: 745
+		Soy el proceso hijo: 746
+		Soy el proceso hijo: 747
+		Soy el proceso hijo: 748
+		Soy el proceso hijo: 749
+		Soy el proceso hijo: 750
+		Soy el proceso hijo: 751
+		Soy el proceso hijo: 752
+		Soy el proceso hijo: 753
+		Soy el proceso hijo: 754
+		Soy el proceso hijo: 755
+		Soy el proceso hijo: 756
+		Soy el proceso hijo: 757
+		Soy el proceso hijo: 758
+		Soy el proceso hijo: 759
+		Soy el proceso hijo: 760
+		Soy el proceso hijo: 761
+		Soy el proceso hijo: 762
+		Soy el proceso hijo: 763
+		Soy el proceso hijo: 764
+		Soy el proceso hijo: 765
+		Soy el proceso hijo: 766
+		Soy el proceso hijo: 767
+		Soy el proceso hijo: 768
+		Soy el proceso hijo: 769
+		Soy el proceso hijo: 770
+		Soy el proceso hijo: 771
+		Soy el proceso hijo: 772
+		Soy el proceso hijo: 773
+		Soy el proceso hijo: 774
+		Soy el proceso hijo: 775
+		Soy el proceso hijo: 776
+		Soy el proceso hijo: 777
+		Soy el proceso hijo: 778
+		Soy el proceso hijo: 779
+		Soy el proceso hijo: 780
+		Soy el proceso hijo: 781
+		Soy el proceso hijo: 782
+		Soy el proceso hijo: 783
+		Soy el proceso hijo: 784
+		Soy el proceso hijo: 785
+		Soy el proceso hijo: 786
+		Soy el proceso hijo: 787
+		Soy el proceso hijo: 788
+		Soy el proceso hijo: 789
+		Soy el proceso hijo: 790
+		Soy el proceso hijo: 791
+		Soy el proceso hijo: 792
+		Soy el proceso hijo: 793
+		Soy el proceso hijo: 794
+		Soy el proceso hijo: 795
+		Soy el proceso hijo: 796
+		Soy el proceso hijo: 797
+		Soy el proceso hijo: 798
+		Soy el proceso hijo: 799
+roceso padre: 319
+Soy el proceso padre: 320
+Soy el proceso padre: 321
+Soy el proceso padre: 322
+Soy el proceso padre: 323
+Soy el proceso padre: 324
+Soy el proceso padre: 325
+Soy el proceso padre: 326
+Soy el proceso padre: 327
+Soy el proceso padre: 328
+Soy el proceso padre: 329
+Soy el proceso padre: 330
+Soy el proceso padre: 331
+Soy el proceso padre: 332
+Soy el proceso padre: 333
+Soy el proceso padre: 334
+Soy el proceso padre: 335
+Soy el proceso padre: 336
+Soy el proceso padre: 337
+Soy el proceso padre: 338
+Soy el proceso padre: 339
+Soy el proceso padre: 340
+Soy el proceso padre: 341
+Soy el proceso padre: 342
+Soy el proceso padre: 343
+Soy el proceso padre: 344
+Soy el proceso padre: 345
+Soy el proceso padre: 346
+Soy el proceso padre: 347
+Soy el proceso padre: 348
+Soy el proceso padre: 349
+Soy el proceso padre: 350
+Soy el proceso padre: 351
+Soy el proceso padre: 352
+Soy el proceso padre: 353
+Soy el proceso padre: 354
+Soy el proceso padre: 355
+Soy el proceso padre: 356
+Soy el proceso padre: 357
+Soy el proceso padre: 358
+Soy el proceso padre: 359
+Soy el proceso padre: 360
+Soy el proceso padre: 361
+Soy el proceso padre: 362
+Soy el proceso padre: 363
+Soy el proceso padre: 364
+Soy el proceso padre: 365
+Soy el proceso padre: 366
+Soy el proceso padre: 367
+Soy el proceso padre: 368
+Soy el proceso padre: 369
+Soy el proceso padre: 370
+Soy el proceso padre: 371
+Soy el proceso padre: 372
+Soy el proceso padre: 373
+Soy el proceso padre: 374
+Soy el proceso padre: 375
+Soy el proceso padre: 376
+Soy el proceso padre: 377
+Soy el proceso padre: 378
+Soy el proceso padre: 379
+Soy el proceso padre: 380
+Soy el proceso padre: 381
+Soy el proceso padre: 382
+Soy el proceso padre: 383
+Soy el proceso padre: 384
+Soy el proceso padre: 385
+Soy el proceso padre: 386
+Soy el proceso padre: 387
+Soy el proceso padre: 388
+Soy el proceso padre: 389
+Soy el proceso padre: 390
+Soy el proceso padre: 391
+Soy el proceso padre: 392
+Soy el proceso padre: 393
+Soy el proceso padre: 394
+Soy el proceso padre: 395
+Soy el proceso padre: 396
+Soy el proceso padre: 397
+Soy el proceso padre: 398
+Soy el proceso padre: 399
+Soy el proceso padre: 400
+Soy el proceso padre: 401
+Soy el proceso padre: 402
+Soy el proceso padre: 403
+Soy el proceso padre: 404
+Soy el proceso padre: 405
+Soy el proceso padre: 406
+Soy el proceso padre: 407
+Soy el proceso padre: 408
+Soy el proceso padre: 409
+Soy el proceso padre: 410
+Soy el proceso padre: 411
+Soy el proceso padre: 412
+Soy el proceso padre: 413
+Soy el proceso padre: 414
+Soy el proceso padre: 415
+Soy el proceso padre: 416
+Soy el proceso padre: 417
+Soy el proceso padre: 418
+Soy el proceso padre: 419
+Soy el proceso padre: 420
+Soy el proceso padre: 421
+Soy el proceso padre: 422
+Soy el proceso padre: 423
+Soy el proceso padre: 424
+Soy el proceso padre: 425
+Soy el proceso padre: 426
+Soy el proceso padre: 427
+Soy el proceso padre: 428
+Soy el proceso padre: 429
+Soy el proceso padre: 430
+Soy el proceso padre: 431
+Soy el proceso padre: 432
+Soy el proceso padre: 433
+Soy el proceso padre: 434
+Soy el proceso padre: 435
+Soy el proceso padre: 436
+Soy el proceso padre: 437
+Soy el proceso padre: 438
+Soy el proceso padre: 439
+Soy el proceso padre: 440
+Soy el proceso padre: 441
+Soy el proceso padre: 442
+Soy el proceso padre: 443
+Soy el proceso padre: 444
+Soy el proceso padre: 445
+Soy el proceso padre: 446
+Soy el proceso padre: 447
+Soy el proceso padre: 448
+Soy el proceso padre: 449
+Soy el proceso padre: 450
+Soy el proceso padre: 451
+Soy el proceso padre: 452
+Soy el proceso padre: 453
+Soy el proceso padre: 454
+Soy el proceso padre: 455
+Soy el proceso padre: 456
+Soy el proceso padre: 457
+Soy el proceso padre: 458
+Soy el proceso padre: 459
+Soy el proceso padre: 460
+Soy el proceso padre: 461
+Soy el proceso padre: 462
+Soy el proceso padre: 463
+Soy el proceso padre: 464
+Soy el proceso padre: 465
+Soy el proceso padre: 466
+Soy el proceso padre: 467
+Soy el proceso padre: 468
+Soy el proceso padre: 469
+Soy el proceso padre: 470
+Soy el proceso padre: 471
+Soy el proceso padre: 472
+Soy el proceso padre: 473
+Soy el proceso padre: 474
+Soy el proceso padre: 475
+Soy el proceso padre: 476
+Soy el proceso padre: 477
+Soy el proceso padre: 478
+Soy el proceso padre: 479
+Soy el proceso padre: 480
+Soy el proceso padre: 481
+Soy el proceso padre: 482
+Soy el proceso padre: 483
+Soy el proceso padre: 484
+Soy el proceso padre: 485
+Soy el proceso padre: 486
+Soy el proceso padre: 487
+Soy el proceso padre: 488
+Soy el proceso padre: 489
+Soy el proceso padre: 490
+Soy el proceso padre: 491
+Soy el proceso padre: 492
+Soy el proceso padre: 493
+Soy el proceso padre: 494
+Soy el proceso padre: 495
+Soy el proceso padre: 496
+Soy el proceso padre: 497
+Soy el proceso padre: 498
+Soy el proceso padre: 499
+Soy el proceso padre: 500
+Soy el proceso padre: 501
+Soy el proceso padre: 502
+Soy el proceso padre: 503
+Soy el proceso padre: 504
+Soy el proceso padre: 505
+Soy el proceso padre: 506
+Soy el proceso padre: 507
+Soy el proceso padre: 508
+Soy el proceso padre: 509
+Soy el proceso padre: 510
+Soy el proceso padre: 511
+Soy el proceso padre: 512
+Soy el proceso padre: 513
+Soy el proceso padre: 514
+Soy el proceso padre: 515
+Soy el proceso padre: 516
+Soy el proceso padre: 517
+Soy el proceso padre: 518
+Soy el proceso padre: 519
+Soy el proceso padre: 520
+Soy el proceso padre: 521
+Soy el proceso padre: 522
+Soy el proceso padre: 523
+Soy el proceso padre: 524
+Soy el proceso padre: 525
+Soy el proceso padre: 526
+Soy el proceso padre: 527
+Soy el proceso padre: 528
+Soy el proceso padre: 529
+Soy el proceso padre: 530
+Soy el proceso padre: 531
+Soy el proceso padre: 532
+Soy el proceso padre: 533
+Soy el proceso padre: 534
+Soy el proceso padre: 535
+Soy el proceso padre: 536
+Soy el proceso padre: 537
+Soy el proceso padre: 538
+Soy el proceso padre: 539
+Soy el proceso padre: 540
+Soy el proceso padre: 541
+Soy el proceso padre: 542
+Soy el proceso padre: 543
+Soy el proceso padre: 544
+Soy el proceso padre: 545
+Soy el proceso padre: 546
+Soy el proceso padre: 547
+Soy el proceso padre: 548
+Soy el proceso padre: 549
+Soy el proceso padre: 550
+Soy el proceso padre: 551
+Soy el proceso padre: 552
+Soy el proceso padre: 553
+Soy el proceso padre: 554
+Soy el proceso padre: 555
+Soy el proceso padre: 556
+Soy el proceso padre: 557
+Soy el proceso padre: 558
+Soy el proceso padre: 559
+Soy el proceso padre: 560
+Soy el proceso padre: 561
+Soy el proceso padre: 562
+Soy el proceso padre: 563
+Soy el proceso padre: 564
+Soy el proceso padre: 565
+Soy el proceso padre: 566
+Soy el proceso padre: 567
+Soy el proceso padre: 568
+Soy el proceso padre: 569
+Soy el proceso padre: 570
+Soy el proceso padre: 571
+Soy el proceso padre: 572
+Soy el proceso padre: 573
+Soy el proceso padre: 574
+Soy el proceso padre: 575
+Soy el proceso padre: 576
+Soy el proceso padre: 577
+Soy el proceso padre: 578
+Soy el proceso padre: 579
+Soy el proceso padre: 580
+Soy el proceso padre: 581
+Soy el proceso padre: 582
+Soy el proceso padre: 583
+Soy el proceso padre: 584
+Soy el proceso padre: 585
+Soy el proceso padre: 586
+Soy el proceso padre: 587
+Soy el proceso padre: 588
+Soy el proceso padre: 589
+Soy el proceso padre: 590
+Soy el proceso padre: 591
+Soy el proceso padre: 592
+Soy el proceso padre: 593
+Soy el proceso padre: 594
+Soy el proceso padre: 595
+Soy el proceso padre: 596
+Soy el proceso padre: 597
+Soy el proceso padre: 598
+Soy el proceso padre: 599
+Soy el proceso padre: 600
+Soy el proceso padre: 601
+Soy el proceso padre: 602
+Soy el proceso padre: 603
+Soy el proceso padre: 604
+Soy el proceso padre: 605
+Soy el proceso padre: 606
+Soy el proceso padre: 607
+Soy el proceso padre: 608
+Soy el proceso padre: 609
+Soy el proceso padre: 610
+Soy el proceso padre: 611
+Soy el proceso padre: 612
+Soy el proceso padre: 613
+Soy el proceso padre: 614
+Soy el proceso padre: 615
+Soy el proceso padre: 616
+Soy el proceso padre: 617
+Soy el proceso padre: 618
+Soy el proceso padre: 619
+Soy el proceso padre: 620
+Soy el proceso padre: 621
+Soy el proceso padre: 622
+Soy el proceso padre: 623
+Soy el proceso padre: 624
+Soy el proceso padre: 625
+Soy el proceso padre: 626
+Soy el proceso padre: 627
+Soy el proceso padre: 628
+Soy el proceso padre: 629
+Soy el proceso padre: 630
+Soy el proceso padre: 631
+Soy el proceso padre: 632
+Soy el proceso padre: 633
+Soy el proceso padre: 634
+Soy el proceso padre: 635
+Soy el proceso padre: 636
+Soy el proceso padre: 637
+Soy el proceso padre: 638
+Soy el proceso padre: 639
+Soy el proceso padre: 640
+Soy el proceso padre: 641
+Soy el proceso padre: 642
+Soy el proceso padre: 643
+Soy el proceso padre: 644
+Soy el proceso padre: 645
+Soy el proceso padre: 646
+Soy el proceso padre: 647
+Soy el proceso padre: 648
+Soy el proceso padre: 649
+Soy el proceso padre: 650
+Soy el proceso padre: 651
+Soy el proceso padre: 652
+Soy el proceso padre: 653
+Soy el proceso padre: 654
+Soy el proceso padre: 655
+Soy el proceso padre: 656
+Soy el proceso padre: 657
+Soy el proceso padre: 658
+Soy el proceso padre: 659
+Soy el proceso padre: 660
+Soy el proceso padre: 661
+Soy el proceso padre: 662
+Soy el proceso padre: 663
+Soy el proceso padre: 664
+Soy el proceso padre: 665
+Soy el proceso padre: 666
+Soy el proceso padre: 667
+Soy el proceso padre: 668
+Soy el proceso padre: 669
+Soy el proceso padre: 670
+Soy el proceso padre: 671
+Soy el proceso padre: 672
+Soy el proceso padre: 673
+Soy el proceso padre: 674
+Soy el proceso padre: 675
+Soy el proceso padre: 676
+Soy el proceso padre: 677
+Soy el proceso padre: 678
+Soy el proceso padre: 679
+Soy el proceso padre: 680
+Soy el proceso padre: 681
+Soy el proceso padre: 682
+Soy el proceso padre: 683
+Soy el proceso padre: 684
+Soy el proceso padre: 685
+Soy el proceso padre: 686
+Soy el proceso padre: 687
+Soy el proceso padre: 688
+Soy el proceso padre: 689
+Soy el proceso padre: 690
+Soy el proceso padre: 691
+Soy el proceso padre: 692
+Soy el proceso padre: 693
+Soy el proceso padre: 694
+Soy el proceso padre: 695
+Soy el proceso padre: 696
+Soy el proceso padre: 697
+Soy el proceso padre: 698
+Soy el proceso padre: 699
+Soy el proceso padre: 700
+Soy el proceso padre: 701
+Soy el proceso padre: 702
+Soy el proceso padre: 703
+Soy el proceso padre: 704
+Soy el proceso padre: 705
+Soy el proceso padre: 706
+Soy el proceso padre: 707
+Soy el proceso padre: 708
+Soy el proceso padre: 709
+Soy el proceso padre: 710
+Soy el proceso padre: 711
+Soy el proceso padre: 712
+Soy el proceso padre: 713
+Soy el proceso padre: 714
+Soy el proceso padre: 715
+Soy el proceso padre: 716
+Soy el proceso padre: 717
+Soy el proceso padre: 718
+Soy el proceso padre: 719
+Soy el proceso padre: 720
+Soy el proceso padre: 721
+Soy el proceso padre: 722
+Soy el proceso padre: 723
+Soy el proceso padre: 724
+Soy el proceso padre: 725
+Soy el proceso padre: 726
+Soy el proceso padre: 727
+Soy el proceso padre: 728
+Soy el proceso padre: 729
+Soy el proceso padre: 730
+Soy el proceso padre: 731
+Soy el proceso padre: 732
+Soy el proceso padre: 733
+Soy el proceso padre: 734
+Soy el proceso padre: 735
+Soy el proceso padre: 736
+Soy el proceso padre: 737
+Soy el proceso padre: 738
+Soy el proceso padre: 739
+Soy el proceso padre: 740
+Soy el proceso padre: 741
+Soy el proceso padre: 742
+Soy el proceso padre: 743
+Soy el proceso padre: 744
+Soy el proceso padre: 745
+Soy el proceso padre: 746
+Soy el proceso padre: 747
+Soy el proceso padre: 748
+Soy el proceso padre: 749
+Soy el proceso padre: 750
+Soy el proceso padre: 751
+Soy el proceso padre: 752
+Soy el proceso padre: 753
+Soy el proceso padre: 754
+Soy el proceso padre: 755
+Soy el proceso padre: 756
+Soy el proceso padre: 757
+Soy el proceso padre: 758
+Soy el proceso padre: 759
+Soy el proceso padre: 760
+Soy el proceso padre: 761
+Soy el proceso padre: 762
+Soy el proceso padre: 763
+Soy el proceso padre: 764
+Soy el proceso padre: 765
+Soy el proceso padre: 766
+Soy el proceso padre: 767
+Soy el proceso padre: 768
+Soy el proceso padre: 769
+Soy el proceso padre: 770
+Soy el proceso padre: 771
+Soy el proceso padre: 772
+Soy el proceso padre: 773
+Soy el proceso padre: 774
+Soy el proceso padre: 775
+Soy el proceso padre: 776
+Soy el proceso padre: 777
+Soy el proceso padre: 778
+Soy el proceso padre: 779
+Soy el proceso padre: 780
+Soy el proceso padre: 781
+Soy el proceso padre: 782
+Soy el proceso padre: 783
+Soy el proceso padre: 784
+Soy el proceso padre: 785
+Soy el proceso padre: 786
+Soy el proceso padre: 787
+Soy el proceso padre: 788
+Soy el proceso padre: 789
+Soy el proceso padre: 790
+Soy el proceso padre: 791
+Soy el proceso padre: 792
+Soy el proceso padre: 793
+Soy el proceso padre: 794
+Soy el proceso padre: 795
+Soy el proceso padre: 796
+Soy el proceso padre: 797
+Soy el proceso padre: 798
+Soy el proceso padre: 799
