@@ -13,13 +13,13 @@ void main () {
             exit (-1);
             break;
         case 0: /* Código para el hijo */
-            while (i < 800) {
+            while (i < 10000) {
                 sleep (1);
                 printf ("\t\tSoy el proceso hijo: %d\n", i++);
             }
             break;
         default: /* Código para el padre */
-            while (i < 800) {
+            while (i < 10000) {
                 printf ("Soy el proceso padre: %d\n", i++);
                 sleep (2);
             }
