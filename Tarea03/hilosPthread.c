@@ -6,11 +6,13 @@
 #include <unistd.h>
 
 #define LIMITE 10000
-#define RETARDO_US 0   /* 1000 (1 ms) para ver mejor el entrelazado */
+#define RETARDO_US 0  
+
+int i;/* 1000 (1 ms) para ver mejor el entrelazado */
 
 /* Función que ejecutará el hilo secundario (hijo) */
 void *codigoHiloHijo(void *arg) {
-    for (int i = 1; i <= LIMITE; i++) {
+    for (int i = LIMITE; i >= 1; i--) {
         printf("\t\t[Hilo hijo]: %d\n", i);
         if (RETARDO_US) usleep(RETARDO_US);
     }
@@ -38,13 +40,12 @@ int main(void) {
      * junto con el hilo hijo, aunque no haya acabado sus 10,000 impresiones */
 
 
-    /*El hilo principal espera a que el hilo hijo concluya sus 10000 impresiones*/
+    /*El hilo principal espera a que el hilo hijo concluya sus 10000 impresiones para concluir la tarea*/
     error = pthread_join(hiloHijo, NULL);
     if (error != 0) {
         fprintf(stderr, "Error en pthread_join: %s\n", strerror(error));
         exit(EXIT_FAILURE);
     }
-
     return 0;
 
 }
